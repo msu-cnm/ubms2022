@@ -1,2 +1,2 @@
-# ubms2022
-Upward Bound Math & Science 2022
+# UBMS 2022: Jurassic Park STEM Experience
+Additional files will be added here for in-class labs.
