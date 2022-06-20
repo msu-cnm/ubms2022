@@ -102,22 +102,23 @@ Remember that routing and switching are functions, and many hardware devices tod
 
 ## Computer Connections
 
+You now need to move our VMs on the same network as the switch.
+
+On your VMs, modify the network settings and change it to the following:
+
+- Attached to: `Bridged Adapter`
+- Name: Accept the default
+
 We will now make sure our other computers plugged into eth1 and eth2 receive a DHCP address from our DHCP server on the Domain Controller. Begin with the computer connected to eth2 and do the following:
 
 1. On the host computer, open a command prompt and use the `ipconfig` command to see if the computer automatically obtained an IP address from your DHCP server in your network range.
 
    - If the computer still has a 169.254.x.x address, issue the following command to force it to contact DHCP for another address
       ipconfig /renew
-
 2. Repeat this process for the computer plugged into eth1.
-
 3.    When we configured the switch and set an IP on it, we created a new IP address that is not only the default gateway for the LAN, but we can use to manage the router from. In order to manage it from our LAN, we must use this new IP. 
       1.    On the computer connected to eth2, open a Web Browser and browse to the default gateway IP address `10.226.x.1`. 
-
 4.    After clearing the certificate warning screen, make sure you can access the login screen.
-5.    On your VMs, modify the network settings and change it to the following:
-      - Attached to: `Bridged Adapter`
-      - Name: Accept the default
 
 
 ## Eth0 Cleanup
