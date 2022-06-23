@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 Jun 2022 19:30:05 at https://www.jurassicsystems.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.jurassicsystems.com/ -O1 "D:\Downloads\JurassicSystem" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:30:41	Error: 	"Not Found" (404) at link https://www.jurassicsystems.com/error (from https://www.jurassicsystems.com/about)
+19:30:41	Error: 	"Not Found" (404) at link https://www.jurassicsystems.com/js/lib/jquery-1.10.2.min.js (from https://www.jurassicsystems.com/about)
+19:30:41	Error: 	"Not Found" (404) at link https://www.jurassicsystems.com/theKingFocus.jpg (from https://www.jurassicsystems.com/js/jurassicSystems.js)
+19:30:41	Error: 	"Not Found" (404) at link https://www.jurassicsystems.com/macHDBlur.jpg (from https://www.jurassicsystems.com/js/jurassicSystems.js)
+19:30:41	Error: 	"Not Found" (404) at link https://www.jurassicsystems.com/asciiNewman.jpg (from https://www.jurassicsystems.com/js/jurassicSystems.js)
+19:30:41	Error: 	"Not Found" (404) at link https://www.jurassicsystems.com/zebraGirlWindow.jpg (from https://www.jurassicsystems.com/js/jurassicSystems.js)
+19:30:41	Error: 	"Not Found" (404) at link https://www.jurassicsystems.com/swf/theKing.swf (from https://www.jurassicsystems.com/theking)
+19:30:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif (from https://www.jurassicsystems.com/theking)
+19:31:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif (from https://www.jurassicsystems.com/theking)
+19:31:20	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif (from https://www.jurassicsystems.com/theking)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 15 seconds : 55 links scanned, 44 files written (14074823 bytes overall) [13616024 bytes received at 181546 bytes/sec], 728804 bytes transferred using HTTP compression in 25 files, ratio 29%, 5.0 requests per connection
+(8 errors, 2 warnings, 0 messages)
