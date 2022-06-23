@@ -1,5 +1,5 @@
 # UBMS 2022: Jurassic Park STEM Experience
-Thank you for an awesome camp!  Below you can find links to the files we used in class and the lesson notes I used have also been uploaded here.
+Thank you for an awesome camp!  Below you can find links to the files we used in class and the lesson notes I used as well.  I hope that you play around with these things on your own and learn more.
 
 ## ISO Downloads
 
@@ -13,6 +13,10 @@ Thank you for an awesome camp!  Below you can find links to the files we used in
 
 - [CentOS 6 - Web Server OVA](https://drive.google.com/file/d/1Ebyd37AzT66exRcA8slyqYC3Krc5H-FJ/view?usp=sharing) (Note: This link may stop working one day because it's hosted on my Google Drive)
 
+## Ethical Hacking Lessons
+
+- [PicoCTF](https://picoctf.org/) - This site offers a Primer has a Learn section to teach you the basics and then a Practice section to let you try it out.  
+- [Hacksplaining](https://www.hacksplaining.com/lessons) - This site is a little more advanced, but it still does a great job of walking you through the different concepts.  Without the other site, you might not be sure what they're talking about, but it's so guided, you could go through it anyway.
 
 ## Other Links
 
