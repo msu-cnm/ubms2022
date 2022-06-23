@@ -26,6 +26,7 @@ Thank you for an awesome camp!  Below you can find links to the files we used in
   - Required .NET Framework 3.5, which can be downloaded [here](https://go.microsoft.com/fwlink/?linkid=2186537)
 - [Thunderbird](https://www.thunderbird.net/en-US/) - Email Client
 - [Jurassic Systems](https://www.jurassicsystems.com/) - The page we used on our web server
+- [I Know This](http://theinstructionlimit.com/i-know-this-global-game-jam-2015) - The Jurassic Park hacking simulator game
 
 ## Student Network Config
 
